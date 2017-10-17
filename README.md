@@ -1,4 +1,4 @@
-# ユニティちゃん縦移動ゲーム
+# ピンボール
 
 ![ゲームシーン](https://raw.github.com/caorol/PinBall/master/gamescene.png)
 
