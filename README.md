@@ -2,6 +2,8 @@
 
 ![ゲームシーン](https://raw.github.com/caorol/PinBall/master/gamescene.png)
 
+
+---
 ## Unity 起動時に真っ黒になる問題
 ![画面](https://raw.github.com/caorol/PinBall/master/unityblack.png)
 
@@ -20,6 +22,7 @@
 - ~/Library/Logs/Unity
 
 
+---
 ## Main Camera の HDR を有効にする
 Main Camera の `Allow HDR` にチェック
 ### アンチエイリアスを切らないといけません
